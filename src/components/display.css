@@ -1,0 +1,48 @@
+body {
+    background: #e8cbc0;
+    background: -webkit-linear-gradient(to right, #e8cbc0, #636fa4);
+    background: linear-gradient(to right, #e8cbc0, #636fa4);
+    min-height: 100vh;
+}
+p {
+    font-family:Arial, Helvetica, sans-serif;
+    color: rgb(29, 34, 34);    /* font-weight: bold; */
+}
+.name{
+    /* font-size: large; */
+    color:rgb(29, 34, 34);
+    font-size: 30px;
+
+}
+.location{
+    color:mediumseagreen;
+}
+.bio{
+    font-style: italic;
+    font-weight: normal;
+}
+.blog{
+    font-family:Arial, Helvetica, sans-serif;
+}
+.icon{
+    width: 25px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 400px;
+    margin: auto;
+    text-align: center;
+  }
+.repos{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+  .title {
+    color: grey;
+    font-size: 15px;
+
+  }
+.foll{
+    color: rgb(29, 34, 34);
+}
