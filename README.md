@@ -30,11 +30,11 @@ In this project I have built an application using React ang Github api.
     - Location
     - Followers and Following count
     - Github repositories with their star count and description.
-    - You can also click on some of the info to visit more links related to their profile 
+4. You can also click on some of the info to visit more links related to their profile 
 
 
 
-## Getting Started with Create React App
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
