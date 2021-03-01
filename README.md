@@ -1,4 +1,40 @@
-# Getting Started with Create React App
+# REACT app to get insights of Github public profiles and public repositories of a user using the Github API
+
+This project is hosted using github pages.
+
+### Please visit: https://geetaingle.github.io/github-viewer/ to use this application.
+
+In this project I have built an application using React ang Github api.
+
+## To get started coding on this project, remember the following steps:
+
+1. Clone this repository 
+2. `npm install` first time after cloning the repository 
+3. `npm start` to start developing the application
+
+## Here's how the application looks like:
+
+![sc](https://user-images.githubusercontent.com/42793643/109466885-68610480-7a90-11eb-8714-5a44f9baa5b0.png)
+
+
+
+## How to use the application:
+
+1. go to  https://geetaingle.github.io/github-viewer/
+2. In the search box enter a username of the person to find his/her Github profile insights 
+3. A page will load with information:
+    - Profile Name
+    - Avatar
+    - Bio
+    - Blogs
+    - Location
+    - Followers and Following count
+    - Github repositories with their star count and description.
+    - You can also click on some of the info to visit more links related to their profile 
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
